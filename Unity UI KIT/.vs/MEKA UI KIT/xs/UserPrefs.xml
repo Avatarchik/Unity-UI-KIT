@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{20388556-47CB-E4E6-AEBC-2DDBE20F2CE6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Image Carousel/ImageCarousel.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Image Carousel/ImageCarousel.cs" Line="41" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a35f485b-5e08-4f96-aae2-e564c9ca15e5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
